@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.1.4
+numpy==1.26.4
+pydeck==0.8.1b0
+plotly==5.18.0
+cryptography==42.0.5
+reportlab==4.1.0
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
+shapely==2.0.2
